@@ -1,8 +1,3 @@
-![alt text](qwen3.7.png)
-![alt text](claude4.6.png)
-![alt text](gpt5.5-1.png)
-![alt text](deepseek-v4pro.png)
-![alt text](AI-Mcode.png)
 
 ## 一、项目简介
 
